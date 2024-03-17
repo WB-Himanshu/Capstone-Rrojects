@@ -1,0 +1,37 @@
+#How to change color of the text in the HTML without using CSS.?
+
+HTML has a limited number of ways to add color without using CSS. Here are a few options:
+Text Color: You can change the color of text using the "color" attribute in the "font" tag. For example:
+<font color="red">This text is red</font>
+Background Color: You can change the background color of an element using the "bgcolor" attribute. For example:
+<body bgcolor="yellow">
+<h1>This is a heading</h1>
+<p>This is some text</p>
+</body>
+Note:-that the "bgcolor" attribute is deprecated in HTML5, so it's recommended to use CSS instead.
+Table Cell Background Color: You can change the background color of a table cell using the "bgcolor" attribute in the "td" tag. For example:
+<table>
+<tr>
+<td bgcolor="green">Cell 1</td>
+<td bgcolor="blue">Cell 2</td>
+</tr>
+</table>
+Note that the "bgcolor" attribute is also deprecated in HTML5, so it's recommended to use CSS instead.
+
+#How To center an element without using css.?
+We can centre any element by using the <center> tag.
+
+#How can we position any element horizontally without CSS.?
+We use space to position any element horizontally by using &nbsp; symbol.
+
+#How to make star symbol in Html without CSS.?
+We can make star symbol by using the below code values:-
+&#9734; -Blank star
+&#9733;  -solid star
+&star; -Small blank star
+&starf; -Small soild star
+&bigstar; -Big solid star
+
+#How can we make Copyright symbol in HTML.?
+We can make Copyright symbol by using &copy; and &#169; in html
+
